@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Mobile Application developer</p>
+<h2 align="left">Mobile Application developer</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<h3 align="left">About me</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h3 align="left">I code with</h3>
 
 ###
 
@@ -57,6 +57,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
+
+###
 
 ###
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossein-maleki&" alt="hossein-maleki" /></p>
