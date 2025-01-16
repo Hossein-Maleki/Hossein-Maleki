@@ -49,16 +49,15 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/hossein-maleki36/" target="_blank">
+  <a href="www.linkedin.com/in/ hossein-maleki36 " target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <a href="https://t.me/BitArray01" target="_blank">
+  <a href="https://www.instagram.com/unii_dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/Uniidev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
 
 ###
-
-###
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossein-maleki&" alt="hossein-maleki" /></p>
